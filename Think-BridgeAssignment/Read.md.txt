@@ -1,0 +1,7 @@
+Import the project as maven project
+
+Run the Testng.xml
+
+Not Covered:
+
+Google API hit and validatin is not covered becauseof the time constraint
